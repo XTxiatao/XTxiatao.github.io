@@ -140,13 +140,13 @@ markdown可以用自己的标记语法显示图片，语法格式为：
 
 html标记语法如下：
 
-\<img src="C:\Users\xtxia\Desktop\N1注册用图片.jpg" alt="touxaing" style="zoom:25%;" />
+\<img src="./images/3dmax_sample.png" style="zoom:25%;" />
 
 显示效果如下：
 
-<img src="C:\Users\xtxia\Desktop\N1注册用图片.jpg" alt="touxaing" style="zoom:25%;" />
 
 
+<img src="./images/3dmax_sample.png" style="zoom:25%;" />
 
 ### 表格
 
