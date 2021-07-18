@@ -12,7 +12,7 @@
 
 [电影](./movie.html)
 
-### PHP学习笔记
+### 计算机学习笔记
 
 [PHP笔记](./php.html)
 
@@ -35,4 +35,6 @@
 [nginx笔记](./nginx.html)
 
 [git笔记](./git.html)
+
+[计算机组成原理笔记](计算机组成原理笔记.html)
 
