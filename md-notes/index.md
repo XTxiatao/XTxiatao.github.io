@@ -14,7 +14,7 @@
 
 ### 计算机学习笔记
 
-[PHP笔记](./php.html)
+[PHP笔记](PHP.html)
 
 [HTML笔记](./html.html)
 
