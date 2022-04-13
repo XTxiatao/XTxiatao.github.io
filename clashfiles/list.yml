@@ -1,0 +1,40 @@
+files:
+  - url: ""
+    time: 1649558955237.yml
+    name: config.yaml
+    selected: []
+    mode: global
+  - time: 1649559017890.yml
+    name: subscribe
+    url: https://api.qianglie.net/api/v1/client/subscribe?token=3a7b91537e62d8e1ffbaae69d722c7c1
+    selected:
+      - name: GLOBAL
+        now: 香港 10
+      - name: 🚀 节点选择
+        now: ♻️ 自动选择
+      - name: 🚀 手动切换
+        now: 香港 01
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🚀 节点选择
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    interval: 24
+    subInfo:
+      upload: 120798133
+      download: 16900674986
+      total: 53687091200
+      expire: 1681054996
+    mode: rule
+index: 0
